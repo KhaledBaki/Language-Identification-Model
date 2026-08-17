@@ -45,3 +45,6 @@ weighted avg       0.99      0.98      0.98      2000
 4) This shows what the model confused what for what
 
 <img width="1276" height="1260" alt="image" src="https://github.com/user-attachments/assets/8df1647f-1a99-45e6-8580-1dccf44b6ddb" />
+
+## Dataset Used:
+https://www.kaggle.com/datasets/zarajamshaid/language-identification-datasst
